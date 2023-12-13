@@ -9,3 +9,5 @@ def subt(x, y):
 
 print(add(1, 1))
 print(subt(1, 1))
+
+print(add(2,2))
